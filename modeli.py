@@ -8,7 +8,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import numpy as np
 
-AUTHOR = "Виконав(ла): Цирульнікова Марина, група 4 М"
+AUTHOR = "Виконав(ла): Цирульнікова Марина, група 4М"
 TOPIC = "Побудова математичних моделей задач"
 R_EARTH = 6400.0   # радіус Землі, км
 
