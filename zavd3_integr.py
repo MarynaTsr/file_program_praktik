@@ -10,7 +10,7 @@ import numpy as np
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
-AUTHOR = "Виконав(ла): ПІБ студента, група ___"
+AUTHOR = "Виконав(ла): Цирульнікова Марина, група 4М "
 TOPIC = "Змістовий модуль 3. Чисельне інтегрування. Варіант 9"
 
 
